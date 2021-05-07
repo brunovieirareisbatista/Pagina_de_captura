@@ -1,8 +1,8 @@
 <h1 align="center"> Página de captura responsiva </h1>
 
 <h2> print da página</h2>
-<img src= "./assets/images/printdapágina.png">
-<img src= "./assets/images/redimensionamentoemtelas.png">
+<img src= "./assets/images/print da página.png" alt="foto da página">
+<img src= "./assets/images/redimensionamento em telas.png" alt="foto da página em tela menor">
 
 <h2> Linguagem usada</h2>
 <ul>
